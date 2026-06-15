@@ -1,6 +1,11 @@
-# Test
-
-```mermaid
-flowchart LR
-A --> B
-```
+Source APIs
+      ↓
+Raw JSON Storage
+      ↓
+Bronze Delta
+      ↓
+Silver Delta
+      ↓
+Gold Delta
+      ↓
+Analytics
