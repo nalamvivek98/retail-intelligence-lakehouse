@@ -1,0 +1,10 @@
+source_name: bigbasket
+base_url: https://www.bigbasket.com
+timeout_seconds: 30
+search_terms:
+  - atta
+  - rice
+  - oil
+
+raw_data_path: raw/bigbasket
+max_retries: 3

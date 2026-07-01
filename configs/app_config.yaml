@@ -1,0 +1,5 @@
+environment: dev
+raw_data_root: raw/
+log_directory: logs/
+default_timeout_seconds: 30
+default_retry_count: 3
